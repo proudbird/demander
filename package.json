@@ -1,0 +1,23 @@
+{
+  "name": "demander",
+  "version": "0.0.1",
+  "description": "Loades modules in an alternative to node.js native 'require' method, allowing to load a module with additional global-like variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proudbird/demander.git"
+  },
+  "keywords": [
+    "require",
+    "import"
+  ],
+  "author": "Max Orlov <proudbird.mail@mail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/proudbird/demander/issues"
+  },
+  "homepage": "https://github.com/proudbird/demander#readme"
+}
